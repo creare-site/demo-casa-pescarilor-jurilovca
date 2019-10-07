@@ -1,0 +1,27 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "casapescarilor@yahoo.com",
+    "phone"          : "0784171271",
+    "address"        : "DStr. Lacului, nr. 25, Sat Lunca, Com. Ceamurlia de Jos, Jud Tulcea",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Pensiunea Casa Pescarilor",
+
+    "seo_title"      : "Pensiunea Casa Pescarilor - Cazare Delta Dunarii | WebsiteMarket",
+    "seo_desc"       : "O pensiune situata in satul Lunca, in complexul de lacuri Razelm. Pensiunea – Cherhana – Restaurant.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://github.com/creare-site/demo-casa-pescarilor-jurilovca", 
+    "github"         : "https://github.com/creare-site/demo-casa-pescarilor-jurilovca",
+    "github_group"   : "https://github.com/creare-site",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Pensiunelunca/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
