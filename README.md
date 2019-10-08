@@ -1,4 +1,4 @@
-﻿# [Pensiunea Casa Pescarilor](https://casa-pescarilor-jurilovca.websitemarket.ro/) - Site Prezentare
+﻿# [Pensiunea Casa Pescarilor](https://websitemarket.ro/creare-site/pensiuni/casa-pescarilor-jurilovca/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Pensiunea Casa Pescarilor](https://casa-pescarilor-jurilovca.websitemarket.ro/) un produs **WebsiteMarket**
+[Pensiunea Casa Pescarilor](https://websitemarket.ro/creare-site/pensiuni/casa-pescarilor-jurilovca/) un produs **WebsiteMarket**
